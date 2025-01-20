@@ -1,3 +1,8 @@
+**Generated Report **
+https://app.powerbi.com/links/Mkzsv0vKML?ctid=131c4223-bcf6-4747-bc82-36fd195e1b49&pbi_source=linkShare
+
+
+
 # global_cancer_predictions
 **1.Incidence and Mortality Analysis:**
 
